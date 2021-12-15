@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-width=".62184">
+  <path id="SIM" d="m136.02 65.649h-73.239v64.175h73.239z" fill="#d9d9d9"/>
+  <path id="DI" d="m89.538 27.485h-46.188v40.472h46.188z" fill="#f99" fill-opacity=".5"/>
+  <path id="IMA" class="IMA" d="m66.448 105.47h-48.256v42.284h48.256z" fill="#99def9" fill-opacity=".5" transform-origin="center"/>
+ </g>
+ <g font-family="sans-serif">
+  <text transform="scale(.99999 1)" x="62.853191" y="123.15487" fill="#006680" font-size="6.3503px" stroke-width=".26459" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="42.122456" y="123.15487" text-align="center">Inteligencia</tspan><tspan x="42.122456" y="131.09245" text-align="center">de marketing</tspan></text>
+  <text transform="scale(.99999 1)" x="139.21573" y="68.110268" fill="#000000" font-size="6.3502px" stroke-width=".26459" style="line-height:1.25" xml:space="preserve"><tspan x="139.21573" y="68.110268">Apoyo a las</tspan><tspan x="139.21573" y="76.047852">decisiones</tspan></text>
+  <text x="76.460732" y="43.122066" fill="#ff5599" font-size="6.3502px" stroke-width=".16453" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="63.893921" y="43.122066" text-align="center">Datos</tspan><tspan x="63.893921" y="51.05965" text-align="center">internos</tspan></text>
+  <text x="152.67303" y="146.28745" fill="#000000" font-size="6.3503px" stroke-width=".26459" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="134.21815" y="146.28745" text-align="center">Investigación</tspan><tspan x="134.21815" y="154.22502" text-align="center">de marketing</tspan></text>
+ </g>
+ <path id="AD" d="m179.57 48.625h-46.188v40.472h46.188z" fill="#9f9" fill-opacity=".5" stroke-width=".62184" transform-origin="center"/>
+ <g transform="matrix(.6643 0 0 -.58209 142.35 63.884)"></g>
+ <g stroke-width=".62184">
+  <path d="m68.972 71.332-15.262 33.969-9.0943-2.1355 4.3484-36.531z" fill="#f99"/>
+  <path d="m70.299 124.64 37.783 13.142-2.4369 7.9688-40.707-3.5788z" fill="#99def9"/>
+  <path d="m130.09 123.28 15.276-34.015 9.0943 2.1354-4.3623 36.577z" fill="#c6afe9"/>
+  <path d="m129.53 71.076-39.801-13.616 2.4371-7.9688 42.725 4.0532z" fill="#9f9"/>
+ </g>
+ <text x="119.25121" y="89.885735" fill="#6c5353" font-family="sans-serif" font-size="6.3502px" stroke-width=".16453" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="98.520477" y="89.885735" text-align="center">Sistema de </tspan><tspan x="98.520477" y="97.823326" text-align="center">información</tspan><tspan x="98.520477" y="105.76091" text-align="center">de marketing</tspan></text>
+ <path id="IM" class="IM" d="m157.48 125.82h-48.256v42.284h48.256z" fill="#aa87de" fill-opacity=".5" stroke-width=".62184"></path> 
+  <text x="40" y="50" font-size="28" display="none">
+		<tspan class="info" x="80" y="180" fill="#7D3C98">Información sobre temas concretos</tspan>
+        <tspan class="info" x="80" y="180" dy="1.2em" fill="#7D3C98"> como resultado de investigaciones</tspan>
+			<animate attributeName="display" values="block" begin="IM.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="IM.mouseout" fill="freeze"/>
+	</text>
+    <text x="40" y="50" font-size="28" display="none">
+		<tspan class="info" x="5" y="160" fill="#006680">Información sobre la competencia</tspan>
+    		<animate attributeName="display" values="block" begin="IMA.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="IMA.mouseout" fill="freeze"/>
+	</text>
+    <text x="40" y="50" font-size="28" display="none">
+		<tspan class="info" x="100" y="10" fill="#ff5599">Información fruto de la actividad diaria</tspan>
+    		<animate attributeName="display" values="block" begin="DI.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="DI.mouseout" fill="freeze"/>
+	</text>
+
+       <text x="50" y="50"  font-size="28" display="none">
+		<tspan class="info" x="150" y="90"   fill="#1D8348">Información a partir  </tspan>
+        <tspan class="info" x="150" y="90"   dy="1.2em" fill="#1D8348">de modelos</tspan>
+        <tspan class="info" x="150"  dy="2.4em"  y="90" fill="#1D8348">estadísticos predictivos</tspan>
+    		<animate attributeName="display" values="block" begin="AD.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="AD.mouseout" fill="freeze"/>
+	</text>
+ <style type="text/css"> 
+ /* <![CDATA[ */
+ path:hover{
+     transform-origin:center;
+     transform:scale(1.2);
+ }
+
+ .info {
+	font-size:.2em;
+}
+ /* ]]> */
+ </style>
+
+</svg>

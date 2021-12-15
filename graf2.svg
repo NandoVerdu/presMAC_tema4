@@ -1,0 +1,579 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="700px"
+	 height="100%" viewBox="0 0 1020 800" enable-background="new 0 0 1020 800" xml:space="preserve">
+<style>
+path:hover {
+	fill:green;
+	opacity:0.6;
+}
+text {
+	fill:#ffffff;
+	font-family:arial;
+}
+.info {
+	font-size:12pt;
+}
+</style>
+
+
+<rect x="0" y="0" height="1580" width="2011" fill="#333333"/>
+<g id="labels">
+	<text x="591" y="498" font-size="14">San Jose
+		<animateMotion path="M0,0 0,-10" begin="San_Jose.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="San_Jose.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="476" y="458" font-size="11">Campbell
+		<animateMotion path="M0,0 0,-10" begin="Campbell.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Campbell.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="540" y="397" font-size="14">Santa Clara
+		<animateMotion path="M0,0 0,-10" begin="Santa_Clara.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Santa_Clara.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="428" y="380" font-size="14">Cupertino
+		<animateMotion path="M0,0 0,-10" begin="Cupertino.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Cupertino.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="520" y="350" font-size="14">Sunnyvale
+		<animateMotion path="M0,0 0,-10" begin="Sunnyvale.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Sunnyvale.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="502" y="295" font-size="11">Mountain
+		<animateMotion path="M0,0 0,-10" begin="Mountain_View.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Mountain_View.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="509" y="305" font-size="11">View
+		<animateMotion path="M0,0 0,-10" begin="Mountain_View.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Mountain_View.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="471" y="296" font-size="8">Los
+		<animateMotion path="M0,0 0,-10" begin="Los_Altos.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Los_Altos.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="457" y="306" font-size="8">Altos
+		<animateMotion path="M0,0 0,-10" begin="Los_Altos.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Los_Altos.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="502" y="258" font-size="14">Palo Alto
+		<animateMotion path="M0,0 0,-10" begin="Palo_Alto.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Palo_Alto.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="460" y="242" font-size="8">Stanford
+		<animateMotion path="M0,0 0,-10" begin="Stanford.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Stanford.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="542" y="223" font-size="7">East
+		<animateMotion path="M0,0 0,-10" begin="East_Palo_Alto.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="East_Palo_Alto.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="543" y="231" font-size="7">Palo Alto
+		<animateMotion path="M0,0 0,-10" begin="East_Palo_Alto.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="East_Palo_Alto.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="539" y="205" font-size="10">Menlo Park
+		<animateMotion path="M0,0 0,-10" begin="Menlo_Park.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Menlo_Park.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="450" y="197" font-size="8">Atherton
+		<animateMotion path="M0,0 0,-10" begin="Atherton.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Atherton.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="465" y="166" font-size="14">Redwood City
+		<animateMotion path="M0,0 0,-10" begin="Redwood_City.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Redwood_City.mouseout" dur="0.5s" fill="freeze"/>
+	</text>Oracle, Electronic Arts, Ampex
+	<text x="440" y="136" font-size="9">San Carlos
+		<animateMotion path="M0,0 0,-10" begin="San_Carlos.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="San_Carlos.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="440" y="80" font-size="14">San Mateo
+		<animateMotion path="M0,0 0,-10" begin="San_Mateo.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="San_Mateo.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="510" y="98" font-size="9">Foster City
+		<animateMotion path="M0,0 0,-10" begin="Foster_City.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Foster_City.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="440" y="106" font-size="9">Belmont
+		<animateMotion path="M0,0 0,-10" begin="Belmont.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Belmont.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="710" y="380" font-size="11">Milpitas
+		<animateMotion path="M0,0 0,-10" begin="Milpitas.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Milpitas.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="770" y="280" font-size="14">Fremont
+		<animateMotion path="M0,0 0,-10" begin="Fremont.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Fremont.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+	<text x="690" y="250" font-size="12">Newark
+		<animateMotion path="M0,0 0,-10" begin="Newark.mouseover" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M0,-10 0,0" begin="Newark.mouseout" dur="0.5s" fill="freeze"/>
+	</text>
+
+</g>
+
+<g id="cities" transform="matrix(0.707 0.409 -0.707 0.409 0 -0.816) translate(370, -350)">
+	<path id="Sunnyvale" fill="#FFFFFF" d="M426.554,296.19c0,0,27.863,15.451,52.686,16.718c7.092,0,10.892,0,10.892,0v67.124
+		l-0.254,5.32h5.827v6.839h-17.731l0.253,16.211h-6.079l0.507,25.583h-4.053v6.586h9.879v5.572h-27.609l-0.253,7.852h-4.812
+		l-0.507-7.598l-14.944-0.254v-3.039l-6.333-0.253v3.292l-9.372-0.253v5.319h-2.026v-5.319l-7.599,0.76l-3.039,11.398
+		c0,0-11.652-6.585-15.451-19.757c-0.254-7.852,0-14.185,3.799-19.757c0.76-6.079-4.559-14.944,4.56-33.182l-2.28-2.027
+		l4.053-15.197l5.066,1.013l1.267-3.546l6.08,0.253l4.306-12.665l-2.786-0.506l2.279-9.119l-2.026-0.76l0.507-1.773l-2.533-0.76
+		l1.267-3.293l13.172,4.053l-0.254-29.889L426.554,296.19z">
+	<animateMotion path="M0,0 -10,-10" begin="Sunnyvale.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Sunnyvale.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Cupertino" fill="#FFFFFF" d="M477.973,492.749c0,0-14.944-2.533-32.928,0c-3.546-1.52-14.945-4.812-18.745-5.066
+		c0.253,2.533,0,14.438,0,14.438l3.799,4.052l-0.253,11.905h-23.81l-1.267-5.319l-10.892-0.253v12.412h-5.319v12.918h5.826v5.066
+		h-12.158v-23.81h4.236c0,0-3.983,0.506-4.236-11.652c-5.573,0-29.89-0.253-29.89-0.253v-11.398h6.08l0.253-12.159h10.892v-1.773
+		l-4.813-7.092l3.292-3.546l-14.438-7.092l9.119-6.08l-10.385-10.385c0,0-0.507-5.319,1.52-5.319
+		c2.28,2.027,27.356,15.705,27.356,15.705l1.014-12.158l6.333,1.013c0,0,5.065,8.612,13.425,11.145
+		c2.025-1.267,4.306-10.132,4.306-10.132l4.812-0.507l0.253,4.813h3.771v-4.56l8.894-0.253l1.52-3.039h3.293l-0.253,3.292
+		l13.435,0.507l2.017,6.839h8.359l0.507-6.839l16.718-0.507l0.253,2.786l-3.039-0.253l0.506,23.81l10.639-0.254V492.749z">
+	<animateMotion path="M0,0 -10,-10" begin="Cupertino.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Cupertino.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Santa_Clara" fill="#FFFFFF" d="M491.398,321.014 507.609,311.135 515.968,309.868 558.016,366.101 
+		542.311,380.031 544.591,385.351 558.016,388.644 562.068,392.443 557.256,398.269 549.657,391.937 552.19,400.042 
+		564.348,413.214 562.828,445.382 539.018,445.382 539.018,469.952 468.601,469.952 468.601,451.969 471.641,451.969 
+		471.641,448.169 477.973,447.662 479.493,444.623 479.493,439.557 470.121,439.81 470.375,435.25 473.921,435.25 473.414,409.667 
+		480,408.907 479.747,393.71 497.224,392.95 497.224,383.324 491.398,383.324z">
+	<animateMotion path="M0,0 -10,-10" begin="Santa_Clara.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Santa_Clara.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="San_Jose" fill="#FFFFFF" d="M540.538,446.649 564.348,446.649 565.868,411.44 555.482,401.055 564.348,392.696 
+		558.269,385.478 545.351,383.324 544.337,381.298 560.042,366.101 516.475,307.335 475.693,309.868 413.382,240.464 
+		548.39,230.585 574.241,301.509 582.585,347.356 597.277,333.425 615.768,335.451 629.192,319.24 657.308,304.295 655.789,299.736 
+		683.905,291.884 678.839,283.272 711.767,277.953 698.089,301.509 684.917,304.042 696.823,327.852 703.915,316.201 
+		718.606,332.918 720.126,325.572 733.044,328.359 735.577,314.174 750.775,319.24 760.654,355.208 755.841,355.208 
+		752.548,342.543 747.229,340.011 745.456,344.823 748.495,351.155 728.992,358.248 724.432,351.409 718.859,357.995 
+		701.382,349.89 693.783,353.942 719.619,391.684 738.364,385.478 753.055,436.264 812.833,504.654 802.955,507.188 
+		823.218,521.879 861.973,514.28 862.986,529.864 826.765,562.913 755.082,559.113 780.917,590.016 809.793,577.097 
+		845.509,613.065 806.501,629.53 827.018,654.354 900.221,677.15 929.098,645.235 962.786,647.261 962.786,667.524 997.994,668.791 
+		997.994,679.683 1018.765,679.683 1018.765,691.841 1011.926,691.841 958.733,732.623 922.258,717.931 916.939,719.198 
+		916.686,736.168 901.741,747.314 839.936,674.364 814.353,696.654 828.538,712.611 814.353,725.023 823.472,744.781 
+		775.092,761.752 788.517,785.309 772.812,800 737.097,778.977 762.174,759.219 760.147,744.781 775.092,726.797 795.103,733.889 
+		780.665,707.04 754.828,719.958 719.113,724.517 716.073,700.454 739.376,695.388 750.775,702.48 784.97,693.868 766.479,673.351 
+		785.477,650.554 766.479,634.596 760.907,641.182 687.957,623.704 678.079,639.409 706.701,660.686 717.847,646.248 
+		736.591,654.354 731.271,669.045 706.448,663.726 686.438,683.736 678.332,684.496 677.825,680.696 661.107,679.683 
+		661.614,673.857 655.789,673.604 655.535,668.538 637.551,667.524 636.791,657.14 629.952,649.794 625.139,652.327 621.34,642.195 
+		614.248,647.514 615.768,652.834 604.622,662.206 587.145,647.514 598.29,634.596 596.77,631.556 587.904,632.57 587.904,628.77 
+		591.704,628.01 590.438,614.079 571.947,614.332 551.176,613.319 538.511,597.614 536.232,584.443 558.775,546.195 
+		558.775,537.836 574.241,538.343 587.398,530.237 576.76,517.826 556.243,517.826 551.683,501.868 547.884,496.802 
+		544.844,496.802 545.098,515.292 512.928,515.292 511.156,522.385 502.543,524.158 497.731,520.612 495.705,522.385 
+		498.997,525.931 494.438,530.998 494.184,536.063 504.316,536.063 507.356,530.491 516.475,530.998 516.475,546.195 
+		498.744,544.675 495.705,551.515 477.973,552.527 477.973,547.461 486.585,547.461 486.585,540.369 479.747,540.369 
+		479.24,521.879 431.113,518.333 431.62,505.667 427.567,500.602 428.074,490.222 443.525,495.029 480,494.775 479.24,471.472 
+		541.551,471.472z">
+	<animateMotion path="M0,0 -10,-10" begin="San_Jose.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="San_Jose.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Campbell" fill="#FFFFFF" d="M534.205,582.923 531.166,580.897 532.686,576.084 522.554,568.232 509.382,568.232 
+		486.332,568.232 484.812,558.1 495.705,560.886 495.705,556.833 495.705,552.781 499.757,545.942 516.475,547.208 517.741,529.731 
+		507.103,528.464 503.303,534.29 496.97,534.543 496.97,530.491 500.264,526.185 502.008,525.283 512.422,522.639 513.941,516.813 
+		546.363,516.813 546.363,498.575 554.976,519.092 575.761,519.345 585.118,529.224 574.241,536.823 557.256,536.57 
+		557.002,546.449z">
+	<animateMotion path="M0,0 -10,-10" begin="Campbell.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Campbell.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Milpitas" fill="#FFFFFF" d="M569.161,284.708 574.241,270.522 571.701,250.09 608.169,229.826 614.586,249.583 
+		622.86,246.206 620.159,238.438 639.578,234.892 645.151,250.934 634.681,257.267 641.773,277.446 654.438,266.132 
+		649.542,246.881 662.881,249.076 667.44,247.726 679.768,263.599 671.662,268.834 679.768,271.536 679.768,274.575 
+		679.768,275.926 684.496,275.082 686.016,280.992 677.404,282.512 682.132,290.955 654.101,299.061 655.282,302.776 
+		627.588,318.311 614.754,333.847 597.024,332.158 583.346,344.317 575.24,300.411z">
+	<animateMotion path="M0,0 -10,-10" begin="Milpitas.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Milpitas.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Mountain_View" fill="#FFFFFF" d="M344.738,360.696h-13.509l6.755-12.496l-22.966-13.847l6.754-8.105l-6.754-3.378
+		l2.701-4.053l12.159,7.431l13.171-26.006l-3.039-19.588h37.488l14.186,15.535v13.678l-9.457,1.857v12.834l6.079,4.728l19.926,6.755
+		l-1.351,3.714l1.351,4.56v2.533l1.688,7.092l-2.702,8.873l-7.43,2.611l-5.403,1.951l-4.053,15.948l1.689,2.153
+		c0,0-7.345,11.377-5.558,24.189c-3.898,1.014-17.915,0-17.915,0l-0.169-11.145l-23.641-0.337V360.696z">
+	<animateMotion path="M0,0 -10,-10" begin="Mountain_View.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Mountain_View.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Los_Altos" fill="#FFFFFF" d="M311.81,332.665l23.557,16.211l-7.346,12.412l14.945,1.527v36.974h23.303v11.652h21.277
+		l1.267,6.586c0,0-9.512,9.878-2.35,26.596c-4.743-0.253-5.756,0-5.756,0l-1.52,9.878l-26.906-15.704l6.389-15.958l-25.077-23.81
+		l-4.052,2.533l-20.264-7.979l5.742-8.105l-13.341-36.348L311.81,332.665z">
+	<animateMotion path="M0,0 -10,-10" begin="Los_Altos.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Los_Altos.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Palo_Alto" fill="#FFFFFF" d="M304.718,362.814l-53.446-16.218l-7.853,70.924v27.103h4.56l0.253,13.425h13.171
+		l-0.507,13.425l11.905,1.267v-8.105l6.08-0.253v-4.813l17.478,0.507l-3.8,58.765h-20.517l-0.76,13.931c0,0,0-12.411-20.01-17.478
+		c2.532-5.572,5.826-13.678,5.826-13.678l-11.146-14.17h-10.892l-6.839-20.786l1.267-2.532l9.372,1.013l-35.208-59.019
+		l15.198-30.902l7.346-12.405l18.997-5.58l4.813-14.438l18.237,4.812l2.786-14.944l-4.56-2.533l7.599-11.652l-10.638-6.332
+		l10.891-15.958l-22.796-24.063l-2.533,3.551l-2.786-2.284l-6.079,16.971l-4.56-1.267l0.507-3.04l-5.066-2.28l-11.145,10.132
+		l-0.253-4.812l41.034-39.261l24.57-5.067l22.543,8.613l3.546-2.026l-2.533-11.398l11.146-8.612l17.225,5.066l16.464,24.063
+		l-14.944,20.18l3.546,19.588l-12.412,25.077l-12.411-7.346l-3.293,5.066l6.332,3.292l-5.403,6.333l-3.462-2.28l-11.146,18.744
+		L304.718,362.814z">
+	<animateMotion path="M0,0 -10,-10" begin="Palo_Alto.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Palo_Alto.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="East_Palo_Alto" fill="#FFFFFF" d="M288.506,204.75 298.892,200.95 296.105,207.789 306.744,214.881 
+		311.303,212.348 311.303,213.362 308.77,216.148 308.77,220.454 317.889,230.585 307.503,239.198 309.53,250.597 307.503,252.116 
+		279.641,242.104 271.789,236.412 271.789,230.585 264.443,224.253z">
+	<animateMotion path="M0,0 -10,-10" begin="East_Palo_Alto.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="East_Palo_Alto.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Menlo_Park" fill="#FFFFFF" d="M280.908,244.01 258.87,248.316 217.836,288.337 217.836,294.924 219.863,306.322 
+		216.569,309.108 207.958,304.295 176.042,309.108 169.963,301.256 188.96,287.578 207.451,290.871 209.477,288.084 
+		203.651,277.953 223.662,248.316 212.517,240.971 218.85,231.346 225.435,236.412 223.156,241.224 228.981,244.77 233.541,239.198 
+		238.353,242.491 239.62,239.705 245.445,240.464 250.512,234.385 252.792,236.158 257.098,224.76 225.435,213.362 231.261,202.723 
+		229.488,200.95 222.142,197.404 221.129,194.871 227.715,193.351 234.554,196.391 236.327,176.887 242.406,181.192 
+		265.709,173.087 290.279,161.942 305.478,194.871 306.744,212.348 297.625,206.522 300.411,199.43 286.48,202.47 262.67,223.493 
+		269.762,231.346 269.762,237.172z">
+	<animateMotion path="M0,0 -10,-10" begin="Menlo_Park.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Menlo_Park.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Redwood_City" fill="#FFFFFF" d="M223.662,212.095 195.799,200.95 184.147,219.44 190.733,226.533 
+		175.789,243.757 172.242,241.09 165.404,260.728 154.258,249.33 148.433,253.636 145.393,249.33 131.715,263.008 89.921,224 
+		97.267,218.681 112.464,231.346 124.623,249.837 129.436,243.757 126.902,217.169 127.155,211.082 149.953,186.512 
+		148.686,182.966 155.525,177.899 145.646,139.398 143.113,138.132 133.488,145.478 115.251,125.214 120.063,117.108 
+		127.662,119.895 129.182,106.723 139.314,109.256 141.34,106.723 138.554,97.604 146.153,89.246 149.953,85.193 163.377,85.193 
+		175.029,96.084 186.681,104.697 204.918,106.977 214.037,123.188 215.05,136.105 227.715,144.211 227.715,138.132 231.768,139.652 
+		251.272,166.755 252.538,175.114 242.659,178.406 235.061,174.1 232.274,193.604 227.462,191.831 218.351,193.857 220.116,198.67 
+		228.475,202.723z">
+	<animateMotion path="M0,0 -10,-10" begin="Redwood_City.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Redwood_City.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="San_Carlos" fill="#FFFFFF" d="M128.676,205.763 110.944,203.989 101.319,210.322 103.852,216.148 99.293,216.148 
+		69.404,175.62 71.684,174.1 97.013,187.778 104.612,182.206 87.895,169.794 89.921,155.61 103.599,150.797 108.665,155.61 
+		114.997,147.757 111.958,144.971 122.343,135.853 133.488,146.998 143.113,140.918 153.246,177.394 146.913,182.459 
+		147.673,185.752z">
+	<animateMotion path="M0,0 -10,-10" begin="San_Carlos.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="San_Carlos.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="San_Mateo" fill="#FFFFFF" d="M27.609,28.96 52.179,20.855 53.446,33.773 66.364,47.451 78.522,48.718 
+		94.733,64.422 101.572,68.475 101.572,81.9 95.747,85.193 101.572,110.776 105.878,122.934 102.079,125.72 92.96,122.934 
+		64.084,138.892 32.169,155.356 19.757,138.892 19.757,121.161 23.557,116.855 18.491,110.269 22.796,108.496 25.583,111.029 
+		32.675,106.217 29.383,98.364 35.208,92.538 30.902,88.106 22.796,97.098 18.491,89.246 33.689,71.261 24.57,61.89 2.786,72.781 
+		0,66.955 6.585,63.409 3.799,58.09 31.916,36.053z">
+	<animateMotion path="M0,0 -10,-10" begin="San_Mateo.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="San_Mateo.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Foster_City" fill="#FFFFFF" d="M123.356,50.744 138.807,61.636 147.166,79.113 135.261,94.312 138.047,103.684 
+		127.916,103.684 125.382,116.602 117.53,116.602 105.878,116.602 97.52,86.459 103.852,82.407 102.586,66.449 94.48,61.89 
+		94.48,55.05 89.921,55.05 89.921,50.744 95.494,47.958 103.346,51.251 101.572,54.037 111.325,56.824z">
+	<animateMotion path="M0,0 -10,-10" begin="Foster_City.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Foster_City.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Belmont" fill="#FFFFFF" d="M37.995,153.842 93.72,124.707 102.079,126.987 106.899,122.934 105.878,118.122 
+		117.277,118.122 113.225,125.467 120.57,134.586 109.171,143.705 111.325,147.251 108.159,152.57 103.852,148.011 87.641,153.842 
+		85.868,170.301 89.921,173.087 79.283,176.887 70.67,172.074 67.63,174.1z">
+	<animateMotion path="M0,0 -10,-10" begin="Belmont.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Belmont.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Fremont" fill="#FFFFFF" d="M298.132,69.572 382.564,65.182 393.034,49.309 388.981,26.68 428.158,29.383 
+		449.435,48.126 497.393,0 528.643,22.966 536.569,10.132 552.78,7.684 580.823,71.937 603.121,91.863 615.936,84.095 
+		630.121,120.57 627.588,184.992 647.345,202.476 630.796,222.564 569.161,247.219 547.715,227.968 413.382,237.763 
+		399.113,189.467 426.47,189.129 432.211,209.393 454.685,205.003 480.015,174.1 476.116,167.773 489.963,136.105 452.137,112.126 
+		422.079,68.222 381.552,103.684 358.585,145.224 380.201,141.847 383.915,153.842 395.061,147.926 400.126,164.812 
+		393.034,171.567 417.351,181.023 402.49,184.739 331.905,174.1z">
+	<animateMotion path="M0,0 -10,-10" begin="Fremont.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Fremont.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Newark" fill="#FFFFFF" d="M421.741,71.599 449.436,114.153 486.248,136.781 472.738,167.773 477.129,174.1 
+		453.994,202.476 433.899,206.354 426.132,182.712 398.438,170.554 404.517,165.488 396.074,144.548 385.266,150.628 
+		379.204,138.976 383.578,105.372z">
+	<animateMotion path="M0,0 -10,-10" begin="Newark.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Newark.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Atherton" fill="#FFFFFF" d="M195.808,202.476 255.41,227.04 244.94,238.608 237.847,239.115 231.938,238.102 
+		228.561,242.61 224.849,240.583 227.378,235.905 218.351,229.319 209.31,241.09 219.779,247.219 200.867,277.459 208.119,285.722 
+		205.594,287.748 187.695,285.89 169.963,298.894 163.378,287.748 165.742,274.239 176.55,245.699 192.768,227.033 186.146,219.694z">
+	<animateMotion path="M0,0 -10,-10" begin="Atherton.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Atherton.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+	<path id="Stanford" fill="#FFFFFF" d="M251.525,273.393 273.393,296.106 262.459,312.232 272.802,318.396 264.95,330.724 
+		240.886,312.908 238.86,308.095 219.525,300.834 220.623,294.502 231.092,284.708 235.061,286.143 234.808,289.521 240.211,291.04 
+		246.459,274.407 248.992,276.602z">
+	<animateMotion path="M0,0 -10,-10" begin="Stanford.mouseover" dur="0.5s" fill="freeze"/>
+	<animateMotion path="M-10,-10 0,0" begin="Stanford.mouseout" dur="0.5s" fill="freeze"/>
+	</path>
+</g>
+
+<path id="infobox" fill="#ffffff" opacity="0.5" d="M20,270 300,270 300,270 20,270z">
+	<animate dur="0.3s" attributeName="d" begin="cities.mouseover" end="cities.mouseout" fill="freeze" values="
+	M20,270 300,270 300,270 20,270z;
+	M20,20 300,20 300,520 20,520z;"/>
+</path>
+<path id="infoboxshadow" fill="#000000" opacity="0.1" d="M30,280 310,280 310,280 30,280z">
+	<animate dur="0.3s" attributeName="d" begin="cities.mouseover" end="cities.mouseout" fill="freeze" values="
+	M30,280 310,280 310,280 30,280z;
+	M30,30 310,30 310,530 30,530z;"/>
+</path>
+<path id="infoboxtop" fill="#333333" opacity="0.5" d="M20,270 300,270 300,270 20,270z">
+	<animate dur="0.3s" attributeName="d" begin="cities.mouseover" end="cities.mouseout" fill="freeze" values="
+	M20,270 300,270 300,270 20,270z;
+	M20,20 300,20 300,60 20,60z;"/>
+</path>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">San Jose</tspan>
+		<tspan class="info" x="40" y="90">Population: 982,765</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 180</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $76,963</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,834</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Adobe</tspan>
+		<tspan class="info" x="50" y="230">Cisco</tspan>
+		<tspan class="info" x="50" y="250">Maxim</tspan>
+		<tspan class="info" x="50" y="270">Brocade</tspan>
+		<tspan class="info" x="50" y="290"> </tspan>
+			<animate attributeName="display" values="block" begin="San_Jose.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="San_Jose.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Campbell</tspan>
+		<tspan class="info" x="40" y="90">Population: 40,272</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 5.89</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $67,214</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Ebay</tspan>
+		<tspan class="info" x="50" y="230"> </tspan>
+		<tspan class="info" x="50" y="250"> </tspan>
+		<tspan class="info" x="50" y="270"> </tspan>
+		<tspan class="info" x="50" y="290"> </tspan>
+			<animate attributeName="display" values="block" begin="Campbell.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Campbell.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Santa Clara</tspan>
+		<tspan class="info" x="40" y="90">Population: 119,311</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 18.41</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $75,687</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,860</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Intel</tspan>
+		<tspan class="info" x="50" y="230">Nvidia</tspan>
+		<tspan class="info" x="50" y="250">Applied Materials</tspan>
+		<tspan class="info" x="50" y="270">Agilent</tspan>
+		<tspan class="info" x="50" y="290">McAfee</tspan>
+			<animate attributeName="display" values="block" begin="Santa_Clara.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Santa_Clara.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Cupertino</tspan>
+		<tspan class="info" x="40" y="90">Population: 60,009</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 11.26</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $118,635</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,887</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Apple</tspan>
+		<tspan class="info" x="50" y="230">Seagate</tspan>
+		<tspan class="info" x="50" y="250"> </tspan>
+		<tspan class="info" x="50" y="270"> </tspan>
+		<tspan class="info" x="50" y="290"> </tspan>
+			<animate attributeName="display" values="block" begin="Cupertino.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Cupertino.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Sunnyvale</tspan>
+		<tspan class="info" x="40" y="90">Population: 146,197</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 22.69</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $74,409</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,927</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Yahoo!</tspan>
+		<tspan class="info" x="50" y="230">LinkedIn</tspan>
+		<tspan class="info" x="50" y="250">AMD</tspan>
+		<tspan class="info" x="50" y="270">Juniper</tspan>
+		<tspan class="info" x="50" y="290">Atari (former headquarters)</tspan>
+			<animate attributeName="display" values="block" begin="Sunnyvale.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Sunnyvale.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Mountain View</tspan>
+		<tspan class="info" x="40" y="90">Population: 74,066</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 12.27</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $82,648</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $2,024</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Google</tspan>
+		<tspan class="info" x="50" y="230">Symantec</tspan>
+		<tspan class="info" x="50" y="250">Intuit</tspan>
+		<tspan class="info" x="50" y="270">SETI Institute</tspan>
+		<tspan class="info" x="50" y="290">Udacity</tspan>
+		<tspan class="info" x="50" y="310">Coursera</tspan>
+		<tspan class="info" x="50" y="330">Netscape (former headquarters)</tspan>
+		<tspan class="info" x="50" y="350">Sun (former headquarters)</tspan>
+		<tspan class="info" x="50" y="370">SGI (former headquarters)</tspan>
+		<tspan class="info" x="50" y="390">Verisign (former headquarters)</tspan>
+			<animate attributeName="display" values="block" begin="Mountain_View.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Mountain_View.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Los Altos</tspan>
+		<tspan class="info" x="40" y="90">Population: 28,976</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 6.49</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $158,745</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Apple founded here</tspan>
+			<animate attributeName="display" values="block" begin="Los_Altos.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Los_Altos.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Palo Alto</tspan>
+		<tspan class="info" x="40" y="90">Population: 66,363</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 25.79</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $119,046</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $2,087</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Hewlett-Packard</tspan>
+		<tspan class="info" x="50" y="230">Tesla</tspan>
+		<tspan class="info" x="50" y="250">Space Systems/Loral</tspan>
+			<animate attributeName="display" values="block" begin="Palo_Alto.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Palo_Alto.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Stanford</tspan>
+		<tspan class="info" x="40" y="90">Population: 13,809</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 2.78</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: n/a</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Stanford University is itself an</tspan>
+		<tspan class="info" x="50" y="230">incubator for many technology</tspan>
+		<tspan class="info" x="50" y="250">companies in the area.</tspan>
+		<tspan class="info" x="50" y="270">Stanford Medicine</tspan>
+		<tspan class="info" x="50" y="290">Lucile Packard Children's Hospital</tspan>
+		<tspan class="info" x="50" y="310">SLAC National Accelerator</tspan>
+			<animate attributeName="display" values="block" begin="Stanford.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Stanford.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">East Palo Alto</tspan>
+		<tspan class="info" x="40" y="90">Population: 28,867</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 2.61</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $44,006</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+			<animate attributeName="display" values="block" begin="East_Palo_Alto.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="East_Palo_Alto.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Menlo Park</tspan>
+		<tspan class="info" x="40" y="90">Population: 32,881</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 17.42</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $82,609</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Facebook</tspan>
+		<tspan class="info" x="50" y="230">SRI International</tspan>
+			<animate attributeName="display" values="block" begin="Menlo_Park.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Menlo_Park.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Atherton</tspan>
+		<tspan class="info" x="40" y="90">Population: 7,191</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 5.05</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: &gt;$200,000</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+			<animate attributeName="display" values="block" begin="Atherton.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Atherton.mouseout" fill="freeze"/>
+	</text>
+	
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Redwood City</tspan>
+		<tspan class="info" x="40" y="90">Population: 79,009</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 34.62</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $69,679</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $2,186</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Oracle</tspan>
+		<tspan class="info" x="50" y="230">Electronic Arts</tspan>
+		<tspan class="info" x="50" y="250">Ampex</tspan>
+			<animate attributeName="display" values="block" begin="Redwood_City.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Redwood_City.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">San Carlos</tspan>
+		<tspan class="info" x="40" y="90">Population: 29,092</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 5.54</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $99,110</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+			<animate attributeName="display" values="block" begin="San_Carlos.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="San_Carlos.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Foster City</tspan>
+		<tspan class="info" x="40" y="90">Population: 32,129</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 19.9</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $135,470</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">Visa</tspan>
+			<animate attributeName="display" values="block" begin="Foster_City.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Foster_City.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">San Mateo</tspan>
+		<tspan class="info" x="40" y="90">Population: 99,670</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 15.88</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $86,772</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $2,123</tspan>
+			<animate attributeName="display" values="block" begin="San_Mateo.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="San_Mateo.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Belmont</tspan>
+		<tspan class="info" x="40" y="90">Population: 26,491</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 4.63</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $99,739</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: n/a</tspan>
+			<animate attributeName="display" values="block" begin="Belmont.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Belmont.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Milpitas</tspan>
+		<tspan class="info" x="40" y="90">Population: 68,800</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 13.64</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $84,429</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,842</tspan>
+		<tspan class="info" x="40" y="190">Corporations Headquartered:</tspan>
+		<tspan class="info" x="50" y="210">SanDisk</tspan>
+			<animate attributeName="display" values="block" begin="Milpitas.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Milpitas.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Fremont</tspan>
+		<tspan class="info" x="40" y="90">Population: 221,986</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 87.61</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $93,342</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,804</tspan>
+			<animate attributeName="display" values="block" begin="Fremont.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Fremont.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="40" y="50" font-size="28" display="none">
+		<tspan x="40" y="50">Newark</tspan>
+		<tspan class="info" x="40" y="90">Population: 43,539</tspan>
+		<tspan class="info" x="40" y="110">Square Miles: 13.9</tspan>
+		<tspan class="info" x="40" y="130">Med Hshld Income: $69,350</tspan>
+		<tspan class="info" x="40" y="150">Avg 1-bed Apartment: $1,964</tspan>
+			<animate attributeName="display" values="block" begin="Newark.mouseover" fill="freeze"/>
+			<animate attributeName="display" values="none" begin="Newark.mouseout" fill="freeze"/>
+	</text>
+
+	<text x="700" y="750" font-size="11">Rent data from rentjungle.com. All other data from wikipedia.org.</text>
+	<text x="600" y="50" font-size="40">Cities of Silicon Valley</text>
+	<text x="605" y="70" font-size="16">Mouseover a city</text>
+	
+	
+</svg>
