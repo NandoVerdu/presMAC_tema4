@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/solarized.css">
-		<link rel="stylesheet" href="css.graf.css">
+		
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
@@ -43,52 +43,21 @@
 				</section>
 				<section>
 					<h3>2. El sistema de información de marketing (SIM)</h3>
-					<p style="text-align: left;">"Conjunto de personas, equipos y procedimientos diseñados para recoger, clasificar, analizar, valorar y distribuir a tiempo la información
+					<p class="fragment" style="text-align: left;">"Conjunto de personas, equipos y procedimientos diseñados para recoger, clasificar, analizar, valorar y distribuir a tiempo la información
 						solicitada por los gestores de marketing"</p>
-					<p style="text-align: left;">Se subdivide en los siguientes <b> subsistemas</b>:</p>
+					<p class="fragment" style="text-align: left;">Se subdivide en los siguientes <b> subsistemas</b>:</p>
 				</section>
+
 				<section>
-					<div class="section-infographic">
-						<div class="row-infographic1">
-										<div class="infographic1-container-desktop">
-								<div class="infographic">
-									<div class="infographic1-box box-1">
-								<div class="infographic1-number number-1">01</div>
-								<div class="infographic1-inner inner-1">
-								  <div class="infographic1-dot dot-1"></div>
-								  <h5>Onsite Optimization</h5>
-								  <p>We help improve website content so visitors clearly understand how it relates to their search</p>                    
-								</div>
-							  </div>		
-							  <div class="infographic1-box box-2">
-								<div class="infographic1-number number-2">02</div>
-								<div class="infographic1-inner inner-2">
-								  <div class="infographic1-dot dot-2"></div>
-								  <h5>Onsite Optimization</h5>
-								  <p>We help improve website content so visitors clearly understand how it relates to their search</p>                 
-								</div>
-							  </div>
-							  <div class="infographic1-box box-3">
-								<div class="infographic1-number number-3">03</div>
-								<div class="infographic1-inner inner-3">
-								  <div class="infographic1-dot dot-3"></div>
-								  <h5>Onsite Optimization</h5>
-								  <p>We help improve website content so visitors clearly understand how it relates to their search</p>                  
-								</div>
-							  </div>		
-						  <div class="circle-logo"><img width="217" height="209" src="https://shermansportfolio.com/wp-content/uploads/2021/08/process-lgo.png" class="attachment-full size-full" alt="" loading="lazy"></div>
-							   <svg class="ot-cprocess-circle-chart" height="500" width="500">
-										<circle cx="250" cy="250" r="225" stroke="url(#gradient)" stroke-width="50" fill="none"></circle>
-										<linearGradient id="gradient" gradientTransform="rotate(45)">
-											<stop offset="0%" stop-color="#015be6"></stop>	
-											<stop offset="100%" stop-color="#03baee"></stop>
-										</linearGradient>  				
-								 </svg>
-								</div>
-						  </div>
-						</div>
-						</div>
+					<h3>Sistema de información de Marketing</h3>
+					<object type="image/svg+xml" data="graf1.svg"  width="70%" height="70%">
+						<!-- Your fall back here -->
+						<img src="graf1.svg" />
+					</object>
 				</section>
+
+				
+				
 			</div>
 		</div>
 
@@ -102,6 +71,9 @@
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
+				mouseWheel: true,
+				transition : "convex",
+				pdfSeparateFragments: false,
 
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
