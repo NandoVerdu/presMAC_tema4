@@ -50,7 +50,11 @@
  /* <![CDATA[ */
  path:hover{
      transform-origin:center;
-     transform:scale(1.2);
+     stroke:black;
+     stroke-opacity:.51;
+     stroke-size:3px;
+    
+     
  }
 
  .info {
